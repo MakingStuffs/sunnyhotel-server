@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhotel-server",
+  "version": "0.0.1",
+  "description": "Backend for sunny hotel",
+  "main": "build/index.js",
+  "repository": "https://github.com/MakingStuffs/sunnyhotel-server",
+  "author": "Paul Singh <33229318+MakingStuffs@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
